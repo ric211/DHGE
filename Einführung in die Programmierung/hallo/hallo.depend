@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733753203 source:z:\einführung in die programmierung\hallo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1733755678 source:z:\einführung in die programmierung\hallo\hello3.c
+	<stdio.h>
+
