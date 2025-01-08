@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734724266 source:c:\users\ricoh\desktop\c\lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1734723574 source:c:\users\ricoh\desktop\c\lotto\main.cpp
+
