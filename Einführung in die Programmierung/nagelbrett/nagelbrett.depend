@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1734096253 source:z:\einführung in die programmierung\nagelbrett\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
